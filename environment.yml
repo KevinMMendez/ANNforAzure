@@ -1,0 +1,15 @@
+name: ComparisonTable
+channels:
+  - defaults
+  - conda-forge
+  - cimcb
+dependencies:
+  - jupyter
+  - bokeh=1.1.0
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - openpyxl
+  - cimcb
+  - nomkl
