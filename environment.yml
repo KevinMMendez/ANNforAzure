@@ -1,4 +1,4 @@
-name: ComparisonTable
+name: ANNAzure
 channels:
   - defaults
   - conda-forge
